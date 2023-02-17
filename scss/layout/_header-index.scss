@@ -1,0 +1,31 @@
+.header-inicio {
+	padding-bottom: 38%;
+	background-image: url(../assets/img/fondo-puma.jpg);
+	background-repeat: no-repeat;
+}
+.korea {
+	display: flex;
+	flex-direction: row;
+	padding-top: 5px;
+	padding-left: 5px;
+	justify-content: flex-start;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+.navBar {
+	display: flex;
+	flex-direction: row;
+	gap: 20px;
+	justify-content: center;
+	margin-right: 15px;
+	padding: 15px;
+	text-align: justify;
+	list-style: none;
+	align-content: flex-start;
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	align-items: center;
+}

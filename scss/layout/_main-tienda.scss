@@ -1,0 +1,15 @@
+.grid-container-galeria{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2,1fr);
+    gap:10px;
+    margin-left: 20px;
+    }
+    .precio-tienda{
+        display: flex;
+        justify-content: center;
+    }
+    .boton-carro-tienda{
+        display: flex;
+        justify-content: center;
+    }

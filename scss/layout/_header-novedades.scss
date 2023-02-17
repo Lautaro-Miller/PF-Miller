@@ -1,0 +1,16 @@
+body {
+	background-color: rgb(244,242,242);
+	background-color: rgb(244,242,242);
+}
+.navBar-novedades {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	list-style: none;
+	gap: 20px;
+	margin-right: 15px;
+	margin-top: 10px;
+	position: fixed;
+	top: 0;
+	right: 0;
+}
